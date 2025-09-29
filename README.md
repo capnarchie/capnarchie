@@ -1,13 +1,11 @@
-# Hi there, I'm Uku Ilves 👋
 
-## Software Engineer · Computer Engineering Graduate  
-🌍 Tallinn, Estonia
+# Hello, I'm Uku Ilves 👋
 
 ---
 
 ### 🚀 About Me
 
-I'm a recent Computer Engineering graduate with practical experience in designing and building end-to-end software from low level firmware to full stack applications. I thrive at solving problems that combine interdisciplinary fields like algorithm design, robotics, and/or web development. I’m actively seeking new challenges in **software engineering, robotics, aerospace, or embedded systems** where I can help contribute to impactful and real world solutions and grow professionally.
+I'm a recent Computer Engineering graduate from the University of Tartu, passionate about coding, robotics, software engineering, embedded systems.
 
 ---
 
@@ -37,4 +35,3 @@ I'm a recent Computer Engineering graduate with practical experience in designin
 ## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](http://www.linkedin.com/in/uku-ilves)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/capnarchie)
